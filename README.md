@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shivang Parmar</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aquarian143&label=Profile%20views&color=0e75b6&style=flat" alt="aquarian143" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquarian143" alt="aquarian143" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, C++**
+<p align="left"> <a href="https://twitter.com/Shivang_143" target="blank"><img src="https://img.shields.io/twitter/follow/Shivang_143?logo=twitter&style=for-the-badge" alt="imjp19_" /></a> </p>
+
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **shivangparmar537@gmail.com**
 
-- ⚡ Fun fact **I love to Draw 🎨.**
+- 💬 Ask me about **Web Development**
+
+- ⚡ Fun fact **I love to Draw 🎨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aquarian143&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="aquarian143" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aquarian143&show_icons=true&locale=en&theme=synthwave" alt="aquarian143" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aquarian143&show_icons=true&locale=en&theme=synthwave" alt="aquarian143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aquarian143&&theme=synthwave" alt="aquarian143" /></p>
