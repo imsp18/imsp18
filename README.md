@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquarian143" alt="aquarian143" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Shivang_143" target="blank"><img src="https://img.shields.io/twitter/follow/Shivang_143?logo=twitter&style=for-the-badge" alt="imjp19_" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **shivangparmar537@gmail.com**
@@ -18,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/Shivang_143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shivang_143" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivang-parmar-69a82a244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivang parmar" height="30" width="40" /></a>
 <a href="https://instagram.com/aquarian143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aquarian143" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@shivangparmar537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shivangparmar537" height="30" width="40" /></a>
