@@ -1,4 +1,4 @@
-![MasterHead](https://media.discordapp.net/attachments/762544496805281794/1021048377233899601/Blue_Professional_Graphic_Designer_Profile_LinkedIn_Banner_.png?width=1025&height=256)
+![MasterHead](https://i2.paste.pics/9ca13b8ec2a0d4eec5d0a78625d26ec5.png?trs=c9eab78af657975f76e4b0e864a3f56005743be42855cb20f06e0338c8effa1f)
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 , I'm Shivang Parmar</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
