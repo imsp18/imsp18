@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquarian143" alt="aquarian143" /></a> </p>
 
+- 🔭 I’m currently pursuing Btech in Computer Science and Design from Sardar Vallabhbhai Patel Institute of Technology, Anand
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **shivangparmar537@gmail.com**
