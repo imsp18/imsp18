@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing **B.E** in **Computer Science and Design** from **Sardar Vallabhbhai Patel Institute of Technology, Anand**
 
-- 🌱 I’m currently learning **JavaScript**, And learning **HTML, CSS**
+- 🌱 I’m currently learning **JavaScript**, and practicing **HTML, CSS**
 
 - 📫 How to reach me **shivangparmar537@gmail.com**
 
