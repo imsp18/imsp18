@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aquarian143&label=Profile%20views&color=0e75b6&style=flat" alt="aquarian143" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shivang143-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shivang143&theme=onedark)](https://github.com/Shivang143/github-profile-trophy)
 
 - 🔭 I’m currently pursuing **B.E** in **Computer Science and Design** from **Sardar Vallabhbhai Patel Institute of Technology, Anand**
 
