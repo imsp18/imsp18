@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **shivangparmar537@gmail.com**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development**  
 
-- ⚡ Fun fact **I love to Draw 🎨**
+- ⚡ Fun fact **I love to Draw 🎨, Read Books 📚, and Play Badminton 🏸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
