@@ -23,6 +23,7 @@
 <a href="https://instagram.com/_shivang143" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_shivang143" /></a>
 <a href="https://discord.gg/Aquarian#0088" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Aquarian#0088" /></a>
 <a href="https://www.hackerrank.com/shivangparmar537" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@shivangparmar537" /></a>
+<a href="https://leetcode.com/Shivang143" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="@shivangparmar537" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
