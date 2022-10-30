@@ -43,3 +43,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivang143&show_icons=true&locale=en&theme=synthwave" alt="Shivang143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivang143&&theme=synthwave" alt="Shivang143" /></p>
+
+# Hacktoberfest 2022
+
+[![@shivang143's Holopin board](https://holopin.me/shivang143)](https://holopin.io/@shivang143)
