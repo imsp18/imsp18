@@ -38,11 +38,11 @@
 <a href="https://git-scm.com/"><img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Shivang_143" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsp_18&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="imsp_18" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsp18&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="imsp18" /></p>
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imsp_18&show_icons=true&locale=en&theme=synthwave" alt="imsp_18" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imsp18&show_icons=true&locale=en&theme=synthwave" alt="imsp18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsp_18&&theme=synthwave" alt="imsp_18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsp18&&theme=synthwave" alt="imsp18" /></p>
 
 # Hacktoberfest 2022
 
