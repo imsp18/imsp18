@@ -2,9 +2,9 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 , I'm Shivang Parmar</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aquarian143&label=Profile%20views&color=0e75b6&style=flat" alt="aquarian143" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsp18&label=Profile%20views&color=0e75b6&style=flat" alt="imsp18" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shivang143&theme=onedark)](https://github.com/Shivang143/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imsp18&theme=onedark)](https://github.com/imsp18/github-profile-trophy)
 
 - 🔭 I’m currently pursuing **B.E** in **Computer Science and Design** from **Sardar Vallabhbhai Patel Institute of Technology, Anand**
 
@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Shivang_143" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Shivang_143" /></a>
+<a href="https://twitter.com/imsp_18" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="imsp_18" /></a>
 <a href="https://linkedin.com/in/shivang-parmar" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shivang parmar" /></a>
-<a href="https://instagram.com/_shivang143" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_shivang143" /></a>
+<a href="https://instagram.com/imsp_18" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="imsp_18" /></a>
 <a href="https://discord.gg/Aquarian#0088" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Aquarian#0088" /></a>
 <a href="https://www.hackerrank.com/shivangparmar537" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@shivangparmar537" /></a>
 <a href="https://leetcode.com/Shivang143" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="@shivangparmar537" /></a>
@@ -38,11 +38,11 @@
 <a href="https://git-scm.com/"><img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Shivang_143" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivang143&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Shivang143" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsp_18&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="imsp_18" /></p>
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivang143&show_icons=true&locale=en&theme=synthwave" alt="Shivang143" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imsp_18&show_icons=true&locale=en&theme=synthwave" alt="imsp_18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivang143&&theme=synthwave" alt="Shivang143" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsp_18&&theme=synthwave" alt="imsp_18" /></p>
 
 # Hacktoberfest 2022
 
