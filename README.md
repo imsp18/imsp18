@@ -28,14 +28,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.w3schools.com/html/"><img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Shivang_143" /></a>
-<a href="https://www.w3schools.com/css/"><img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Shivang_143" /></a>
-<a href="https://www.javascript.com/"><img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Shivang_143" /></a>
-<a href="https://www.mysql.com/"><img align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Shivang_143" /></a>
-<a href="https://www.python.org/><img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Shivang_143" /></a>
-<a href="https://visualstudio.microsoft.com/"><img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Shivang_143" /></a>
-<a href="https://git-scm.com/"><img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Shivang_143" /></a>
-<a href="https://git-scm.com/"><img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Shivang_143" /></a>
+<a href="https://www.w3schools.com/html/"><img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="imsp18" /></a>
+<a href="https://www.w3schools.com/css/"><img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="imsp18" /></a>
+<a href="https://www.javascript.com/"><img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="imsp18" /></a>
+<a href="https://www.mysql.com/"><img align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="imsp18" /></a>
+<a href="https://www.python.org/><img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="imsp18" /></a>
+<a href="https://visualstudio.microsoft.com/"><img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="imsp18" /></a>
+<a href="https://git-scm.com/"><img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="imsp18" /></a>
+<a href="https://git-scm.com/"><img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="imsp18" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsp18&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="imsp18" /></p>
