@@ -6,9 +6,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imsp18&theme=onedark)](https://github.com/imsp18/github-profile-trophy)
 
+<p align="left"> <a href="https://twitter.com/imsp_18" target="blank"><img src="https://img.shields.io/twitter/follow/imsp_18?logo=twitter&style=for-the-badge" alt="imsp_18" /></a> </p>
 - 🔭 I’m currently pursuing **B.E** in **Computer Science and Design** from **Sardar Vallabhbhai Patel Institute of Technology, Anand**
 
-- 🌱 I’m currently learning **Javascript**, and practicing **HTML & CSS**
+- 🌱 I’m currently learning **JavaScript**, and practicing **HTML & CSS**
 
 - 📫 How to reach me **shivangparmar537@gmail.com**
 
