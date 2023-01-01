@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsp18&label=Profile%20views&color=0e75b6&style=flat" alt="imsp18" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imsp18&theme=onedark)](https://github.com/imsp18/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imsp18" alt="imsp18" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/imsp_18" target="blank"><img src="https://img.shields.io/twitter/follow/imsp_18?logo=twitter&style=for-the-badge" alt="imsp_18" /></a> </p>
 
@@ -40,11 +40,11 @@
 <a href="https://git-scm.com/"><img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="imsp18" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsp18&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="imsp18" /></p>
-</br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imsp18&show_icons=true&locale=en&theme=synthwave" alt="imsp18" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsp18&show_icons=true&locale=en&layout=compact" alt="imsp18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsp18&&theme=synthwave" alt="imsp18" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsp18&show_icons=true&locale=en" alt="imsp18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsp18&" alt="imsp18" /></p>
 
 # Hacktoberfest 2022
 
