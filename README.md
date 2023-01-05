@@ -2,9 +2,12 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 , I'm Shivang Parmar</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsp18&label=Profile%20views&color=0e75b6&style=flat" alt="imsp18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imsp18&theme=juicyfresh" alt="imsp18" /></a> </p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=imsp18&theme=juicyfresh&row=1&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/imsp_18" target="blank"><img src="https://img.shields.io/twitter/follow/imsp_18?logo=twitter&style=for-the-badge" alt="imsp_18" /></a> </p>
 
@@ -40,11 +43,11 @@
 <a href="https://git-scm.com/"><img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="imsp18" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsp18&show_icons=true&locale=en&layout=compact" alt="imsp18" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsp18&show_icons=true&locale=en" alt="imsp18" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsp18&" alt="imsp18" /></p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imsp18&&theme=midnight-purple&hide_border=true&locale=en" alt="imsp18" /></p>
+  <img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=imsp18&theme=midnight-purple&hide_border=true"/>
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsp18&theme=midnight-purple&layout=compact&count_private=true&hide_border=true" />
+</div>
 
 # Hacktoberfest 2022
 
