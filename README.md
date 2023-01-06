@@ -44,9 +44,9 @@
 </p>
 
 <div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imsp18&&theme=midnight-purple&hide_border=true&locale=en" alt="imsp18" /></p>
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=imsp18&theme=midnight-purple&hide_border=true"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsp18&theme=midnight-purple&layout=compact&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imsp18&&theme=midnight-purple&hide_border=true&locale=en" alt="imsp18"/></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsp18&theme=midnight-purple&hide_border=true"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsp18&theme=midnight-purple&layout=compact&count_private=true&hide_border=true" />
 </div>
 
 # Hacktoberfest 2022
