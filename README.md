@@ -43,10 +43,10 @@
 <a href="https://git-scm.com/"><img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="imsp18" /></a>
 </p>
 
-<div align="center">
+<div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imsp18&&theme=midnight-purple&hide_border=true&locale=en" alt="imsp18" /></p>
-  <img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=imsp18&theme=midnight-purple&hide_border=true"/>
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsp18&theme=midnight-purple&layout=compact&count_private=true&hide_border=true" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=imsp18&theme=midnight-purple&hide_border=true"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsp18&theme=midnight-purple&layout=compact&count_private=true&hide_border=true" />
 </div>
 
 # Hacktoberfest 2022
