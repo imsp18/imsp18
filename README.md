@@ -43,14 +43,21 @@
 <a href="https://www.figma.com/"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="imsp18" /></a>
 </p>
 
+<h3 align="left">Support Me:</h3>
 
-# GitHub Stats:
+<p><a href="https://www.buymeacoffee.com/imsp18"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imsp18" /></a></p>
+<Br>
+<br>
+<br>
 
 <div align="left">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsp18&theme=midnight-purple&hide_border=true"/>
-  <img height="191px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imsp18&theme=midnight-purple&layout=compact&count_private=true&hide_border=true" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsp18&theme=midnight-purple&hide_border=true" alt="imsp18" />
+  <img height="191px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imsp18&theme=midnight-purple&layout=compact&count_private=true&hide_border=true" alt="imsp18" /><br>
 
 </div>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imsp18&&theme=midnight-purple&hide_border=true&locale=en" alt="imsp18"/>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imsp18&&theme=midnight-purple&hide_border=true&locale=en" alt="imsp18" />
+
+
+
 
