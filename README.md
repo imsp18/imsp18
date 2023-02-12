@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently pursuing **B.E** in **Computer Science and Design** from **Sardar Vallabhbhai Patel Institute of Technology, Vasad**
 
-- 🌱 I’m currently learning **JavaScript**, and practicing **HTML & CSS**
+- 🌱 I’m currently learning **JavaScript**, and exploring **Web3**
 
 - 📫 How to reach me **shivangparmar537@gmail.com**
 
@@ -20,17 +20,16 @@
 
 - ⚡ Fun fact **I love to Draw 🎨, Read Books 📚, and Play Badminton 🏸**
 
-<h3 align="left">Socials:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/imsp_18" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="imsp_18" /></a>
 <a href="https://linkedin.com/in/shivang-parmar" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shivang parmar" /></a>
 <a href="https://instagram.com/imsp_18" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="imsp_18" /></a>
 <a href="https://discord.gg/imsp18#0088" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="imsp18#0088" /></a>
-<a href="https://www.hackerrank.com/shivangparmar537" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@shivangparmar537" /></a>
-<a href="https://leetcode.com/Shivang143" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="@shivangparmar537" /></a>
-</p>
+<a href="https://hashnode.com/@imsp18" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="imsp18" /></a>
+<a href="https://dribbble.com/imsp18" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="imsp18" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/html/"><img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="imsp18" /></a>
 <a href="https://www.w3schools.com/css/"><img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="imsp18" /></a> 
