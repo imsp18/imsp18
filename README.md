@@ -4,7 +4,7 @@
 <h3 align="center" >A Passionate Frontend Developer from India</h3>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=imsp18&theme=juicyfresh&row=1&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=imsp18&no-frame=true&row=1&margin-w=2&theme=discord" />
 </p>
 
 
