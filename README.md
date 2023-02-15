@@ -4,7 +4,7 @@
 <h3 align="center" >A Passionate Frontend Developer from India</h3>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=imsp18&no-frame=true&row=1&margin-w=2&theme=discord" />
+  <img src="https://github-profile-trophy.vercel.app/?username=imsp18&no-frame=true&row=1&column=10&margin-w=2&theme=discord" />
 </p>
 
 
@@ -47,6 +47,8 @@
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imsp18&&theme=tokyonight&hide_border=true&locale=en" alt="imsp18" />
 </div>
   
-
-
-
+<!--# Spotify
+<a href="https://open.spotify.com/user/dl3rgkrwco194cm2lynildhle">
+  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+</a>
+--->
