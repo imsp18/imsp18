@@ -46,9 +46,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsp18&theme=tokyonight&hide_border=true" alt="imsp18" /> <img height="191px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imsp18&theme=tokyonight&layout=compact&count_private=true&hide_border=true" alt="imsp18" /><br>
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imsp18&&theme=tokyonight&hide_border=true&locale=en" alt="imsp18" />
 </div>
-  
-<!--# Spotify
-<a href="https://open.spotify.com/user/dl3rgkrwco194cm2lynildhle">
-  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-</a>
---->
+
