@@ -3,8 +3,9 @@
 , I'm Shivang Parmar</h1>
 <h3 align="center" >A Passionate Frontend Developer from India</h3>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=imsp18&no-frame=true&row=1&column=8&margin-w=2&theme=discord" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imsp18&no-frame=true&column=5&margin-w=10&margin-h=10&theme=discord" />
+
 </p>
 
 
