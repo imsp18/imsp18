@@ -8,9 +8,6 @@
 
 </p>
 
-
-<p align="left"> <a href="https://twitter.com/imsp_18" target="blank"><img src="https://img.shields.io/twitter/follow/imsp_18?logo=twitter&style=for-the-badge" alt="imsp_18" /></a> </p>
-
 - 🔭 I’m currently pursuing **B.E** in **Computer Science and Design** from **Sardar Vallabhbhai Patel Institute of Technology, Vasad**
 
 - 🌱 I’m currently learning **JavaScript and React.js**
@@ -21,22 +18,21 @@
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
-<a href="https://twitter.com/imsp_18" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="imsp_18" /></a>
-<a href="https://linkedin.com/in/shivang-parmar" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shivang parmar" /></a>
-<a href="https://instagram.com/imsp_18" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="imsp_18" /></a>
-<a href="https://discord.gg/imsp18#0088" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="imsp18#0088" /></a>
+<a href="https://twitter.com/imsp_18" target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter1.svg" alt="imsp_18" /></a>
+<a href="https://linkedin.com/in/shivang-parmar" target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="shivang parmar" /></a>
+<a href="https://discord.gg/imsp18#0088" target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" alt="imsp18#0088" /></a>
 
 <h3 align="left">Tech I have played with:</h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)	![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg) ![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg) ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg) ![Next JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg) 
+ ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg) ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg) ![Vercel](	https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg) ![Netlify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify3.svg) ![NPM](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg)	![Yarn](https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn1.svg) ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg) ![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
 
 <h3 align="left">Tools:</h3>
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg) ![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg) ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)  ![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg) ![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg) 
 <h3 align="left">Support Me:</h3>
 
-<p><a href="https://www.buymeacoffee.com/imsp18"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imsp18" /></a></p>
+<p><a href="https://www.buymeacoffee.com/imsp18"> <img align="left" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg" height="50" width="210" alt="imsp18" /></a></p>
 <Br>
 <br>
 <br>
