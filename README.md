@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently pursuing **B.E** in **Computer Science and Design** from **Sardar Vallabhbhai Patel Institute of Technology, Vasad**
 
-- 🌱 I’m currently learning **JavaScript and React.js**
+- 🌱 I’m currently learning **React.Js & UX**
 
 - 📫 How to reach me **shivangparmar537@gmail.com**
 
