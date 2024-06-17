@@ -1,20 +1,11 @@
-![MasterHead](https://media.discordapp.net/attachments/910374452032852009/1021436919558717580/Blue_Professional_Graphic_Designer_Profile_LinkedIn_Banner_.gif?width=1025&height=256)
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 , I'm Shivang Parmar</h1>
-<h3 align="center" >A Passionate Frontend Developer from India</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imsp18&no-frame=true&column=5&margin-w=10&margin-h=10&theme=discord" />
-
-</p>
-
-- 🔭 I’m currently pursuing **B.E** in **Computer Science and Design** from **Sardar Vallabhbhai Patel Institute of Technology, Vasad**
-
-- 🌱 I’m currently learning **React.Js & UX**
-
-- 📫 How to reach me **shivangparmar537@gmail.com**
-
+- 🔭 I'm self-taught `Developer` & `Visual Designer`
+- 🌱 I’m currently learning **Next.JS, TypeScript & Backend**
+- 📫 Reach out me on my [**Email**](mailto:shivangparmar537@gmail.com)
 - 💬 Ask me about **Web Development, UI/UX, Web3**  
+
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
