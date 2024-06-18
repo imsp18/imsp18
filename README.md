@@ -15,9 +15,7 @@
 
 <h3 align="left">Tech I have played with:</h3>
 
-![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg) ![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg) ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg) ![Next JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg) 
- ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg) ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg) ![Vercel](	https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg) ![Netlify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify3.svg) ![NPM](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg)	![Yarn](https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn1.svg) ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg) ![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg) ![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg)
-
+- Langauges: `JavaScript`, `Python`, `C++`, `TypeScript`
 <h3 align="left">Tools:</h3>
 
 ![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg) ![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg) ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)  ![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg) ![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg) 
