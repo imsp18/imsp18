@@ -4,7 +4,9 @@
 - 🔭 I'm self-taught `Developer` & `Visual Designer`
 - 🌱 I’m currently learning **Next.JS, TypeScript & Backend**
 - 📫 Reach out me on my [**Email**](mailto:shivangparmar537@gmail.com)
-- 💬 Ask me about **Development &**  
+- 💬 Ask me about **Development & Design**
+- 🧑‍💻 I love to participate in hackathons
+- 👀 Checkout my [**bento.me/shivang-parmar**](https://bento.me/shivang-parmar)
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivang-parmar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imsp_18) 
