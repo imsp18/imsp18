@@ -18,7 +18,7 @@
 - Platform: `GitHub`  `Vercel`
 - Databases: `MySQL`  `MongoDB`
 - Design: `Figma` `Photoshop` `Framer`
-- Productivity: `Notion` `Excalidraw` `VS Code`
+- Productivity: `Notion` `Excalidraw` `VS Code` `ChatGPT` `Creatie`
 - Misc: `TailwindCSS` `Shadcn UI`
 
 ## GitHub Stats:
